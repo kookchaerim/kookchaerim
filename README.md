@@ -2,9 +2,9 @@
 
 ###
 
-[📨Via email](mailto:rnr062626@gmail.com?subject=[GitHub])
+[📨email](mailto:rnr062626@gmail.com?subject=[GitHub])
 
-[🐟Via Instagram](https://www.instagram.com/coflar__/)
+[🐟Instagram](https://www.instagram.com/coflar__/)
 
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
